@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="City">City</string>
+    <string name="not_implementing_interface">The Activity is not implementing the ItemHandler interface.</string>
+    <string name="currently">Currently: %s ℃</string>
+    <string name="humidity">Humidity: %s percent</string>
+    <string name="description">Description: %s</string>
+    <string name="feels_like">Feels like: %s ℃</string>
+    <string name="max">Max: %s ℃</string>
+    <string name="min">Min: %s ℃</string>
+    <string name="enterCity">Enter a City!</string>
+</resources>
